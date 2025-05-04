@@ -20,5 +20,7 @@ import Rectangle from './Rectangle.png'
 import slider2 from './slider2.jpg'
 import Group1 from './Group1.svg'
 import Group2 from './Group2.svg'
+import arrRight from './arrRight.svg'
+import GreenArrow from './GreenArrow.svg'
 
-export {slider2,Group1,Group2, Logo,Rectangle,EmailIcon,LocationICon,TelephoneIcon, PlayIcon, About9Icon, Icon, popupImage, rightarr, closeIcon, SliderIcon, deliveryTruck, headPhonesIcon, packageIcon, shoppingIcon, containerIcon,VectorIcon, leftIcon };
+export {slider2,arrRight,Group1,Group2,GreenArrow, Logo,Rectangle,EmailIcon,LocationICon,TelephoneIcon, PlayIcon, About9Icon, Icon, popupImage, rightarr, closeIcon, SliderIcon, deliveryTruck, headPhonesIcon, packageIcon, shoppingIcon, containerIcon,VectorIcon, leftIcon };

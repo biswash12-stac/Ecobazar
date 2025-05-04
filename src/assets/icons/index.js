@@ -17,7 +17,6 @@ import MethodVisaIcon from './Method=Visa.svg'
 import MethodDiscoverIcon from './Method=Discover.svg'
 import farmaryIcon from './farmary.svg';
 import leaf2DIcon from './2Dleaf.svg'
-import CartICons from './CartIcon.svg'
 import rectangleIcon from './Rectangle.svg';
 import whiteIcon from './WhiteICon.svg'
 import RefreshIcon from './Refresh.svg'
@@ -29,5 +28,6 @@ import WishListIcon from './WishList.svg'
 import Avatar from './Avatar.svg'
 import Cart from './Cart.svg'
 import DownArrow from './DownArrow.svg'
+import Secure from './Secure.svg'
 
-export {RefreshIcon, Avatar,Cart,DownArrow, CartDashboardIcon, WishListIcon, settingIcon,LogoutIcon,DashboardIcon, Location,whiteIcon, rectangleIcon, HeartIcon, farmaryIcon,leaf2DIcon, ArrowDownIcon, CartIcon, SearchIcon, PhoneIcon, EyeIcon,AppleIcon,PlayStoreIcon,TwitterIcon,InstaIcon,FacebookIcon, PinterestIcon, MethodApplePayIcon, MethodDiscoverIcon,MethodMasterCardIcon, MethodVisaIcon, CartICons };
+export {RefreshIcon, Avatar,Cart,DownArrow, CartDashboardIcon, WishListIcon, settingIcon,LogoutIcon,DashboardIcon, Location,whiteIcon, rectangleIcon, HeartIcon, farmaryIcon,leaf2DIcon, ArrowDownIcon, CartIcon, SearchIcon, PhoneIcon, EyeIcon,AppleIcon,PlayStoreIcon,TwitterIcon,InstaIcon,Secure,FacebookIcon, PinterestIcon, MethodApplePayIcon, MethodDiscoverIcon,MethodMasterCardIcon, MethodVisaIcon,  };
